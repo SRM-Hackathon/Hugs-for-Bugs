@@ -1,7 +1,7 @@
 /* * {
   background-color: black;
   opacity: 0.9;
-} */
+}  */
 
 body {
   margin: 0;
@@ -19,10 +19,9 @@ body {
 
 .content {
  background-color: transparent;
-  /* opacity: 0.7; */
   position: fixed;
-  margin-top: 100px;
-  margin-left: 590px;
+  margin-top: 50px;
+  margin-left: 38%;
   color: #f1f1f1;
   
 }
@@ -30,12 +29,11 @@ body {
 { 
   background-color: transparent;
   font-size: 28px;
-  /* opacity: 0.7;   */
   position: fixed;
-  margin-top: 250px;
-  margin-left: 100px;
+  max-width: 70%;
+  margin-top: 14%;
+  margin-left: 16%;
   color: white; 
-  padding-right: 50px; 
   text-align: center;
 }
 
@@ -77,6 +75,6 @@ a:link, a:visited {
 
 .click {
   position: fixed;
-  margin-top: 500px;
-  margin-left: 700px;
+  margin-top: 32%;
+  margin-left: 47%;
 }

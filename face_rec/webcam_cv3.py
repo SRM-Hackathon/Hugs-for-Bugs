@@ -11,6 +11,11 @@ log.basicConfig(filename='webcam.log',level=log.INFO)
 video_capture = cv2.VideoCapture(0)
 anterior = 0
 
+while True:
+    if not video_capture.isOpened():
+        print('Unable to load camera.')
+        sleep(5)
+        pass
 
     ret, frame = video_capture.read()
 

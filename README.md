@@ -24,3 +24,7 @@ Applications
     • To detect robberies at homes and send alert to the concerned
     • To increase the resolution of a zoomed image in mid-range smartphones
     • We can use it in ATM’s, malls, restaurants, hospitals, medical stores, hotels, grocery shops and all major public spots to identify the victims
+
+Libraries Used
+
+    • tracking.js - trackingjs.com
